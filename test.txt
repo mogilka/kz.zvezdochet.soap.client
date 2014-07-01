@@ -1,0 +1,1 @@
+http://zvezdochetkz-client.appspot.com/calc?iyear=2012&imonth=9&iday=16&ihour=0&imin=21&isec=44&dzone=6&dlat=43&dlon=76&hstype=P
